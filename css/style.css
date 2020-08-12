@@ -1,0 +1,197 @@
+	
+	/*S01 Slider CSS Part */
+	#carouselExampleCaptions li{
+		 height:10px;
+		 width:10px;
+		 margin-bottom:25px;
+	}
+	.top-0{
+		top:0;
+	}
+	
+	@media(max-width:992px){
+		.border-bottom{
+		visibility:hidden;
+		}
+		.border-visibility{
+		visibility:visible
+		}
+	}
+	
+	/*S03 Multi Concept Template CSS Part */
+	#overline .card:hover {
+		border-color:#05E8E8 ;
+	}
+	
+	/*S05 Protpholio CSS Part */
+	#button{
+		font-size:.8rem;
+	}
+	.btn{
+		box-shadow: none!important;
+	}
+	
+	.card-hover-visible{
+		visibility:hidden;
+		background-color: #057cf3a3!important;
+	}
+	.grid-item:hover .card-hover-visible{
+		visibility:visible;
+	}
+	/*S06 Code to Pixel CSS Part */
+	#codePart{
+	background-image:url('images/S05bgimg01.jpg');
+		background-size: cover;
+		background-position:center;
+		width:100%;
+		height:400px;
+	}	
+	/*S07 PSD CSS Part */
+	#bg-color2{
+		background-color:#e97288;
+	}	
+	/*S08 Testimonials CSS Part */
+	.nav{
+		margin-left: auto;
+		margin-top: auto;
+	}
+	.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+		color: #02adff;
+		background-color: snow;
+		border: hidden;
+	}	
+	/* our service part*/ 
+	.img-size{
+		height: 125px;
+		width: 115px;
+		margin-left:30px;
+	}
+	/*S09 Team Members CSS Part */
+	#button{
+		font-size:.8rem;
+	}
+	.card-hover-visible{
+		visibility:hidden;
+	}
+	.card:hover .card-hover-visible{
+		visibility:visible;
+	}
+	.rounded-img-125{
+		height: 125px;
+		width: 125px;
+		border-radius:50%;
+	}
+	.bg-dark-50{
+		background-color:#00000080;
+		
+	}
+	/*S10 List CSS Part */
+	#bg-color{
+		background-image: linear-gradient(-90deg, #2fa3f0, #6d65de);
+	}
+	.list-dark{
+		background-color: #638eea!important;
+	}
+	#fixed .fixed1{
+		height:65px;
+		width:65px;
+	}
+	#fixed .fixed2{
+		height:55px;
+		width:55px;
+	}
+	/*S11 Pricing Tables CSS Part */
+	#bg-color{
+		background-color:#74c8b8;
+	}
+	#bg-color2{
+		background-color:#e97288;
+	}
+	#bg-color3{
+		background-color:#c183d6;
+	}
+	.text-color{
+		color:#797979;
+	}
+	#overline .bc-pest, .bc-red, .bc-pink{
+		border-radius:0rem;
+	}
+	#overline .bc-pest:hover {
+		border-color:#74c8b8;
+	}
+	#overline .bc-red:hover {
+		border-color:#e97288;
+	}
+	#overline .bc-pink:hover {
+		border-color:#c183d6;
+	}
+	.badge-secondary{
+		background-color: #f8f8f8;
+		height: 22px;
+		width: 90px;
+		margin-top: 32px;
+		transform: rotate(90deg);
+		text-transform: uppercase;
+		padding-top: 5px;
+		color: black;
+		font-size: .7rem;
+		border-radius: 0rem;
+		margin-left: auto;
+	}
+	#background-color{
+		background-color:#cecece26;
+	}
+	/*S11 Contact Part CSS Part */
+	#overline .hovers {
+			opacity:30%;
+		}
+	#overline .hovers:hover {
+			opacity:100%;
+		}
+	#contact{
+	background-image:url('images/contact/cover.jpg');
+		background-size: cover;
+		background-position:center;
+		background-attachment: fixed;
+	}
+	#button{
+		font-size:.8rem;
+	}
+	#upper{
+		padding: 05px 10px;
+		background-color: #4C4C4B;
+		color: #a5a5a5;
+	}
+	.owl-nav{
+		visibility:hidden;
+	}
+	/*S13 Adreess CSS Part */
+	#up-dark{
+		background-color: #252525d1!important;
+	}
+	.search{
+		background-color: #333333;
+	}
+	.text-color{
+		color: #a5a5a5;
+	}
+	.imae-height{
+		width: 50px;
+		height: 55px;
+	}
+	/*S14 Footer CSS Part */
+	#social-link ul>li{
+		margin-right:12px;
+	}
+	#social-link ul>li>a{
+		height: 2.45rem;
+		width: 2.5rem;
+	}
+	#social-link .btn-light{
+		background-color: #000000bd;
+		color:#969696;
+		border-color: transparent;
+	}
+	.copyright-color{
+		color:#989898;
+	}
